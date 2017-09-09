@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6cf260ddfa370c241963c328cc936410
+timeCreated: 1501842505
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CloudHeiDaGBK
+  fontNames:
+  - CloudHeiDaGBK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
